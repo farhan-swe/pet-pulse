@@ -2,16 +2,16 @@
 
 
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/khdxsohee/pet-pulse?color=blue&label=Last%20Update&style=for-the-badge)](https://github.com/khdxsohee/pet-pulse/commits/main)
-[![GitHub Stars](https://img.shields.io/github/stars/khdxsohee/pet-pulse?style=for-the-badge&color=gold)](https://github.com/khdxsohee/pet-pulse/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/khdxsohee/pet-pulse?style=for-the-badge&color=purple)](https://github.com/khdxsohee/pet-pulse/network/members)
+[![GitHub last commit](https://img.shields.io/github/last-commit/farhan-swe/pet-pulse?color=blue&label=Last%20Update&style=for-the-badge)](https://github.com/farhan-swe/pet-pulse/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/farhan-swe/pet-pulse?style=for-the-badge&color=gold)](https://github.com/farhan-swe/pet-pulse/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/farhan-swe/pet-pulse?style=for-the-badge&color=purple)](https://github.com/farhan-swe/pet-pulse/network/members)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Top Language](https://img.shields.io/github/languages/top/khdxsohee/pet-pulse?style=for-the-badge&color=orange)](https://github.com/khdxsohee/pet-pulse/)
-[![Repo Size](https://img.shields.io/github/repo-size/khdxsohee/pet-pulse?style=for-the-badge&label=Repo%20Size&color=brightgreen)](https://github.com/khdxsohee/pet-pulse/)
-[![Open Issues](https://img.shields.io/github/issues/khdxsohee/pet-pulse?style=for-the-badge&color=red)](https://github.com/khdxsohee/pet-pulse/issues)
-[![Closed Issues](https://img.shields.io/github/issues-closed/khdxsohee/pet-pulse?style=for-the-badge&color=success)](https://github.com/khdxsohee/pet-pulse/issues?q=is%3Aissue+is%3Aclosed)
-[![Pull Requests](https://img.shields.io/github/issues-pr/khdxsohee/pet-pulse?style=for-the-badge&color=informational)](https://github.com/khdxsohee/pet-pulse/pulls)
-[![Project Status](https://img.shields.io/badge/Status-WIP-success?style=for-the-badge)](https://github.com/khdxsohee/pet-pulse)
+[![Top Language](https://img.shields.io/github/languages/top/farhan-swe/pet-pulse?style=for-the-badge&color=orange)](https://github.com/farhan-swe/pet-pulse/)
+[![Repo Size](https://img.shields.io/github/repo-size/farhan-swe/pet-pulse?style=for-the-badge&label=Repo%20Size&color=brightgreen)](https://github.com/farhan-swe/pet-pulse/)
+[![Open Issues](https://img.shields.io/github/issues/farhan-swe/pet-pulse?style=for-the-badge&color=red)](https://github.com/farhan-swe/pet-pulse/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed/farhan-swe/pet-pulse?style=for-the-badge&color=success)](https://github.com/farhan-swe/pet-pulse/issues?q=is%3Aissue+is%3Aclosed)
+[![Pull Requests](https://img.shields.io/github/issues-pr/farhan-swe/pet-pulse?style=for-the-badge&color=informational)](https://github.com/farhan-swe/pet-pulse/pulls)
+[![Project Status](https://img.shields.io/badge/Status-WIP-success?style=for-the-badge)](https://github.com/farhan-swe/pet-pulse)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](CODE_OF_CONDUCT.md)
 > 🐶 A vibrant, multi-theme website that helps connect pets with loving homes.  
 
@@ -82,10 +82,10 @@ You need a modern web browser (Google Chrome, Mozilla Firefox, Microsoft Edge, S
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/khdxsohee/pet-pulse.git
+    git clone https://github.com/farhan-swe/pet-pulse.git
     ```
     ```
-    https://github.com/khdxsohee/pet-pulse.git
+    https://github.com/farhan-swe/pet-pulse.git
     ```
 2.  **Navigate to the Directory:**
     ```bash
@@ -188,7 +188,7 @@ The **Pet Pulse** project is under active development. Here’s a list of planne
 We welcome your contributions to make this project even better! If you wish to add new features, fix bugs, or improve the code, please follow these steps:
 
 1.  **Fork** this repository.
-2.  **Clone** your forked repository: `git clone https://github.com/khdxsohee/pet-pulse.git`
+2.  **Clone** your forked repository: `git clone https://github.com/farhan-swe/pet-pulse.git`
 3.  Create a new **branch**: `git checkout -b feature/your-feature-name`
 4.  Make your **changes** and commit them: `git commit -m "feat: Add new awesome feature"`
 5.  **Push** to your branch: `git push origin feature/your-feature-name`
@@ -198,13 +198,13 @@ Please make sure to write clear commit messages and describe your changes in det
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. For more information, please see the [LICENSE](https://github.com/khdxsohee/pet-pulse/blob/main/LICENSE) file.
+This project is licensed under the **MIT License**. For more information, please see the [LICENSE](https://github.com/farhan-swe/pet-pulse/blob/main/LICENSE) file.
 
 ## 📞 Contact
 
 If you have any questions, suggestions, or feedback, feel free to contact me:
-* **GitHub:** [@khdxsohee](https://github.com/khdxsohee)
+* **GitHub:** [@farhan-swe](https://github.com/farhan-swe)
 
 ---
 
-**© 2025 khdxsohee. All Rights Reserved.**
+**© 2025 farhan-swe. All Rights Reserved.**
